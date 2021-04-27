@@ -20,18 +20,24 @@ The Homebrewing Competition App will allow users to sign up with an authenticate
 Users will also be able to sort events by date, location, and by category (whether it is a serving event or a mail in competition). A stretch goal for the project will be to add a sharing feature that will allow users to share an event with friends via email and social media.
 
 
+
 ### Technologies
 
 -Java
 -HTML/CSS
 -Springboot
+-Hibernate
 -Thymleaf
 -JavaScript
 -MySQL
 
+
 ### What I'll Have to Learn
 
-I will need to further my understanding of the stacks learned in both units of LaunchCode. I'm considering using MongoDB instead of MySQL and possibly Tailwind to handle the CSS portion of the application.
+I will need to further my understanding of the stacks learned in both units of LaunchCode. 
+
+
 
 ### Project Tracker
-Link to your Trello board here
+
+https://trello.com/b/KO2qLMjo/homebrewing-competition-events-app
