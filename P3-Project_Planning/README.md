@@ -6,14 +6,18 @@ For this assignment, you'll create some initial plans for your project.
 
 ## Submission Instructions
 
-### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+### Wireframes
+![Landing Page](https://user-images.githubusercontent.com/74738079/116628980-e10c0200-a915-11eb-9b7a-44772df2e2de.jpg)
+![Register Page](https://user-images.githubusercontent.com/74738079/116628987-e5381f80-a915-11eb-932f-af2da15775c4.jpg)
+![Event Page](https://user-images.githubusercontent.com/74738079/116628994-e8cba680-a915-11eb-900c-953c68bd2c27.jpg)
+![Profile Page](https://user-images.githubusercontent.com/74738079/116628998-ebc69700-a915-11eb-823e-03d2e6cbc98f.jpg)
+
+
 
 ### Project Tracker
+https://trello.com/b/KO2qLMjo/homebrewing-competition-events-app
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
 
 ### Project Repo Link
-
-Include a link to your project on GitHub.
+https://github.com/spurs2k/homebrewing-events-calendar
